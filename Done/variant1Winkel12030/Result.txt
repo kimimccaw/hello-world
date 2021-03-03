@@ -1,0 +1,1 @@
+('pipe size percent: ', 50.27608566254227)('Pipe pixel size : ', 158794)('white percent: ', 16.190158318324368)('Black percent: ', 48.602772664086864)
